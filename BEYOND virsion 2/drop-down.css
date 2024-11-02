@@ -1,0 +1,40 @@
+.language-icon {
+  width: 18px;
+  position: relative;
+  height: 18px;
+  object-fit: cover;
+}
+.english {
+  position: relative;
+  font-weight: 500;
+}
+.language-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+  gap: var(--gap-3xs);
+}
+.egyptian-flag-large-623x415-1-icon {
+  width: 18px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  height: 18px;
+  object-fit: cover;
+}
+.drop-down4 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--fill-1-);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--desktop-overline-medium-10-size);
+  color: var(--black);
+  font-family: var(--body-medium);
+}

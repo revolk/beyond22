@@ -1,0 +1,110 @@
+.frame-child336 {
+  width: 80px;
+  position: relative;
+  border-radius: 50%;
+  height: 80px;
+  object-fit: cover;
+}
+.text263 {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+}
+.heading-parent2,
+.heading25 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--desktop-overline-medium-10-size);
+}
+.heading-parent2 {
+  width: 102px;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: var(--text-s-regular-size);
+}
+.design-ui-ux4 {
+  width: 102px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 142.02%;
+  display: inline-block;
+}
+.checksquare-icon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.checksquare-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--black);
+}
+.frame-parent295 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.ellipse-parent132 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.message {
+  position: relative;
+  line-height: 100%;
+}
+.chattext-parent15,
+.userplus-parent {
+  border-radius: var(--br-xl);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-3xs);
+}
+.chattext-parent15 {
+  width: 81px;
+  background-color: var(--black);
+}
+.userplus-parent {
+  width: 70px;
+  border: 1px solid var(--gray-300);
+  color: var(--gray-700);
+}
+.frame-parent296,
+.frame-root {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  color: var(--fill-1-);
+}
+.frame-root {
+  position: relative;
+  backdrop-filter: blur(160px);
+  border-radius: var(--br-xl);
+  background-color: var(--fill-1-);
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  text-align: left;
+  font-size: var(--desktop-overline-medium-10-size);
+  color: var(--gray-700);
+  font-family: var(--body-medium);
+}

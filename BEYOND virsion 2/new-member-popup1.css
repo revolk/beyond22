@@ -1,0 +1,93 @@
+.new-member {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  text-transform: capitalize;
+  text-align: center;
+}
+.avatar-icon6 {
+  width: 32px;
+  position: relative;
+  border-radius: 50%;
+  height: 32px;
+  object-fit: cover;
+}
+.lynda-spinka {
+  position: relative;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.user-name-and-avatar6 {
+  flex: 1;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.iconscheck6 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.chat-member6 {
+  width: 440px;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.iconscheck7 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.save {
+  position: relative;
+  line-height: 100%;
+}
+.button55 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--black);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xl);
+  gap: var(--gap-5xs);
+  color: var(--gray-5);
+}
+.new-member-popup1 {
+  width: 488px;
+  position: relative;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-xs);
+  background-color: var(--fill-1-);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--display-s-semibold-size);
+  color: var(--black);
+  font-family: var(--body-medium);
+}

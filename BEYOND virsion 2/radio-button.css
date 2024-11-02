@@ -1,0 +1,95 @@
+.border68 {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  border-radius: 50%;
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.radio-button69 {
+  position: absolute;
+  top: 17px;
+  left: 57px;
+  font-weight: 500;
+}
+.radio-button-item-child66 {
+  position: absolute;
+  top: 23px;
+  left: 24px;
+  border-radius: 50%;
+  background-color: var(--color-tomato-100);
+  width: 2px;
+  height: 2px;
+  opacity: 0.3;
+}
+.radio-button-item68 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--fill-1-);
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.radio-button70 {
+  position: absolute;
+  top: 18px;
+  left: 49px;
+  font-weight: 500;
+}
+.border69,
+.radio-button-item-child67 {
+  position: absolute;
+  top: 15px;
+  left: 14px;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+.border69 {
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+}
+.radio-button-item-child67 {
+  background-color: var(--black);
+}
+.radio-button-item69 {
+  align-self: stretch;
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.radio-button-item69,
+.radio-button-item84,
+.radio-button68 {
+  position: relative;
+  background-color: var(--fill-1-);
+}
+.radio-button-item84 {
+  align-self: stretch;
+  border-radius: 0 0 var(--br-xl) var(--br-xl);
+  height: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.radio-button68 {
+  width: 440px;
+  border-radius: var(--br-xl);
+  border: 1px solid var(--gray-300);
+  box-sizing: border-box;
+  height: 280px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--text-s-regular-size);
+  color: var(--black);
+  font-family: var(--body-medium);
+}
